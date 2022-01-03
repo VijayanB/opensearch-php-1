@@ -13,7 +13,7 @@ e.g. `git clone https://github.com/[your username]/opensearch-php.git`.
 
 #### PHP 7.3 or higher
 
-OpenSearch PHP Client builds using [PHP](https://php.net) 7.3 at a minimum.
+OpenSearch PHP Client builds using [PHP](https://www.php.net/downloads) 7.3 at a minimum.
 
 ### Unit Testing
 
